@@ -1,27 +1,48 @@
-<h1 align="center">Hi 👋, I'm Mohammed Moin</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m0i9&label=Profile%20views&color=0e75b6&style=flat" alt="m0i9" /> </p>
+<h1 align="center"> Hello, I'm Mohaammed Moin 👨‍💻 </h1>
 
-- 🌱 I’m currently learning **Javascript :)**
+<h3 align="center">  Freshman | Engineer | Aspiring Full-Stack Developer </h3> <br>
 
-- 👯 I’m looking to collaborate on **Web Development**
+<p align="center"> 
+<a href="https://https://www.linkedin.com/in/mohammad-moin-aa305a1b3//"><img alt="LinkedIn" src="https://img.shields.io/badge/-Mohammed_Moin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/"></a>
+<a href="https://twitter.com/M0i9n"><img alt="Twitter" src="https://img.shields.io/badge/-SulthanNK-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SulthanNK"></a>
 
-- 🤝 I’m looking for help with **OpenSource**
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!-- credits for gif https://giphy.com/izmiragency -->
 
-- 💬 Ask me about **C,JAVA,HTML,CSS,JAVASCRIPT**
+<img align="right" height="200" width="300" src="dev.gif">
 
-- 📫 How to reach me **nawazmoin63@gmail.com**
+### 🤔 About
+-  **Working :** Front-End :computer: | Cloud :cloud: 
+-  **Learning :** Full-Stack :zap: | Open-Source :fire:	
+-  **Hobbies :** Books :books: | Music :headphones:
+-  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
+-  **Pronouns :** He/Him :innocent: 
 
-- ⚡ Fun fact **I THINK I'M SLEEPY :(**
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-moin-aa305a1b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-moin-aa305a1b3/" height="30" width="40" /></a>
-<a href="https://instagram.com/mohammed_moin__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammed_moin__" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+### 📊 Profile stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m0i9&show_icons=true&locale=en&layout=compact" alt="m0i9" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m0i9&show_icons=true&locale=en" alt="m0i9" /></p>
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<!--
+
+### Hi there 👋 
+
+**SulthanNK/SulthanNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning the ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about: ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+-->

@@ -4,7 +4,7 @@
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/mohammad-moin-aa305a1b3"><img alt="LinkedIn" src="https://img.shields.io/badge/-Mohammed_Moin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/"></a>
-<a href="https://twitter.com/M0i9n"><img alt="Twitter" src="https://img.shields.io/badge/-SulthanNK-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SulthanNK"></a>
+<a href="https://twitter.com/M0i9n"><img alt="Twitter" src="https://img.shields.io/badge/-M0i9n-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SulthanNK"></a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!-- credits for gif https://giphy.com/izmiragency -->
